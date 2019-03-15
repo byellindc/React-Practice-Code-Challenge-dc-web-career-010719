@@ -23,6 +23,10 @@ body {
   margin: auto;
 }
 
+.sushi {
+  cursor: pointer;
+}
+
 .plate {
   background-image: url("http://www.clker.com/cliparts/9/9/f/0/1194984076762834840small_plate.svg.hi.png");
   background-size: contain; 
